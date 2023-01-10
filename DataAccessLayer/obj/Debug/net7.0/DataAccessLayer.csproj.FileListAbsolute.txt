@@ -1,0 +1,15 @@
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\bin\Debug\net7.0\Models.dll
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\bin\Debug\net7.0\Models.pdb
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\GetYourGuideTask\pair-programming\web-pairing-kit-dot-net\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
